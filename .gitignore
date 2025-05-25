@@ -1,0 +1,12 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+
+# Environment
+venv/
+
+# Streamlit secrets
+.streamlit/secrets.toml
+
+# Output files
+*.pdf
