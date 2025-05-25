@@ -31,3 +31,10 @@ Fully customizable: choose genre, tone, script length — and export it as a PDF
 ```bash
 git clone https://github.com/jugalsheth/creative-script-writer.git
 cd creative-script-writer
+
+# 2. Create virtual environment
+python3 -m venv venv
+source venv/bin/activate
+
+# 3. Install dependencies
+pip install -r requirements.txt
